@@ -15,7 +15,7 @@ authors = [
 ]
 dependencies = [
     "attrs > 20",
-    "ax253 >= 0.1.5",
+    "git+https://github.com/MichTronics/ax253.git",
     "bitarray > 2.5.0",
     "importlib-metadata >= 1.4",
     "pyserial-asyncio >= 0.6"
